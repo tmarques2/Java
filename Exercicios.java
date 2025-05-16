@@ -70,13 +70,21 @@ public class Exercicios {
     double area = (base * altura) / 2;
     System.out.println("Área do triângulo: " + area);
 */
-
+/*
 //6
     int a = 1;
     int b = 12;
     int c = -13;
     double delta = Math.pow(b, 2) - 4 * a * c;
 
-    System.out.println("Delta é igual a: " + delta);
+    System.out.println("Delta é igual a: " + delta);*/
+
+    //desafio1
+    double v = -1;
+    double x = -3;
+    double a = 3 * Math.pow((x / 4), -2) + 6 * (Math.pow(3, v) / 4) - 4;
+    double b = 7 * Math.pow((x / 4   ), v) + 2;
+    double c = Math.pow((a / b), v) + 4;
+    System.out.println(c);
     }
 }
