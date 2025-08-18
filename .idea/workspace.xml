@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/.idea/teste-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/primeiro-projeto/Case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/primeiro-projeto/Exercicios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/primeiro-projeto/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/segundo-projeto/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/segundo-projeto/condicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/segundo-projeto/loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/out/production/terceiro-projeto/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/primeiro-projeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/src/Case.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/src/Exercicios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/primeiro-projeto/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/Main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/src/condicao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/Main/src/loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/segundo-projeto/segundo-projeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/terceiro-projeto/terceiro-projeto.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,22 +31,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Case.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.condicao.executor": "Run",
     "Application.loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ct67ca/Desktop/bancoHibernate-javatrilha",
+    "last_opened_file_path": "C:/Users/ct67ca/Documents/teste-java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Case" />
       <module name="primeiro-projeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="quarto-projeto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.loop" />
         <item itemvalue="Application.Case" />
