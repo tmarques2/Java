@@ -34,6 +34,13 @@
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.condicao.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
+    "Application.ex3.executor": "Run",
+    "Application.ex4.executor": "Run",
+    "Application.ex5.executor": "Run",
+    "Application.ex6.executor": "Run",
+    "Application.ex7.executor": "Run",
     "Application.loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -44,49 +51,49 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Case" />
-      <module name="primeiro-projeto" />
+  <component name="RunManager" selected="Application.ex7">
+    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3" />
+      <module name="Lista1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="quarto-projeto" />
+    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex4" />
+      <module name="Lista1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="terceiro-projeto" />
+    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex5" />
+      <module name="Lista1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicao" />
-      <module name="segundo-projeto" />
+    <configuration name="ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex6" />
+      <module name="Lista1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop" />
-      <module name="segundo-projeto" />
+    <configuration name="ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex7" />
+      <module name="Lista1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.loop" />
-        <item itemvalue="Application.Case" />
-        <item itemvalue="Application.condicao" />
+        <item itemvalue="Application.ex7" />
+        <item itemvalue="Application.ex6" />
+        <item itemvalue="Application.ex5" />
+        <item itemvalue="Application.ex3" />
+        <item itemvalue="Application.ex4" />
       </list>
     </recent_temporary>
   </component>

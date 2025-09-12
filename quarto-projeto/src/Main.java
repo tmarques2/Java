@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -16,7 +17,7 @@ public class Main {
             System.out.println("Finally é sempre executado");
         }*/
 
-        Scanner scanner = new Scanner(System.in);
+        /*Scanner scanner = new Scanner(System.in);
 
         int numero;
         while (true){
@@ -34,7 +35,22 @@ public class Main {
 
 
         }
-        System.out.println(numero);
+        System.out.println(numero);*/
+
+
+
+        /*int[] vetor = new int[10];
+        vetor[0] = 10;
+        System.out.println(vetor[0]);*/
+
+
+        /*ArrayList<String> Lista = new ArrayList<>();
+        Lista.add("Thainara");
+        Lista.add("Rebeca");
+        System.out.println(Lista);
+        System.out.println(Lista.get(1));
+        Lista.remove(0);
+        System.out.println(Lista);*/
 
     }
 }
