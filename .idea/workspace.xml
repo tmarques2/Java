@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIsta2/LIsta2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIsta2/src/ex1_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIsta2/src/ex2_lista2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIsta2/src/ex3_lista2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,9 @@
     "Application.ex1.executor": "Run",
     "Application.ex1_lista2.executor": "Run",
     "Application.ex2.executor": "Run",
+    "Application.ex2_lista2.executor": "Run",
     "Application.ex3.executor": "Run",
+    "Application.ex3_lista2.executor": "Run",
     "Application.ex4.executor": "Run",
     "Application.ex5.executor": "Run",
     "Application.ex6.executor": "Run",
@@ -59,7 +59,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex1_lista2">
+  <component name="RunManager" selected="Application.ex3_lista2">
     <configuration name="ex1_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1_lista2" />
       <module name="LIsta2" />
@@ -67,16 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex3" />
-      <module name="Lista1" />
+    <configuration name="ex2_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2_lista2" />
+      <module name="LIsta2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5" />
-      <module name="Lista1" />
+    <configuration name="ex3_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3_lista2" />
+      <module name="LIsta2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex3_lista2" />
+        <item itemvalue="Application.ex2_lista2" />
         <item itemvalue="Application.ex1_lista2" />
         <item itemvalue="Application.ex7" />
         <item itemvalue="Application.ex6" />
-        <item itemvalue="Application.ex5" />
-        <item itemvalue="Application.ex3" />
       </list>
     </recent_temporary>
   </component>
