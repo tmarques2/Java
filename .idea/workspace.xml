@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LIsta2/src/ex2_lista2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIsta2/src/ex3_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex4_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LIsta2/src/ex4_lista2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
     "Application.ex3.executor": "Run",
     "Application.ex3_lista2.executor": "Run",
     "Application.ex4.executor": "Run",
+    "Application.ex4_lista2.executor": "Run",
     "Application.ex5.executor": "Run",
     "Application.ex6.executor": "Run",
     "Application.ex7.executor": "Run",
@@ -59,7 +58,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex3_lista2">
+  <component name="RunManager" selected="Application.ex4_lista2">
     <configuration name="ex1_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1_lista2" />
       <module name="LIsta2" />
@@ -81,9 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex6" />
-      <module name="Lista1" />
+    <configuration name="ex4_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex4_lista2" />
+      <module name="LIsta2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex4_lista2" />
         <item itemvalue="Application.ex3_lista2" />
         <item itemvalue="Application.ex2_lista2" />
         <item itemvalue="Application.ex1_lista2" />
         <item itemvalue="Application.ex7" />
-        <item itemvalue="Application.ex6" />
       </list>
     </recent_temporary>
   </component>
