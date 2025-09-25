@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista3/src/ex2_lista3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/src/ex3_lista3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/src/ex4_lista3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/src/ex5_lista3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lista3/src/ex5_lista3.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -53,23 +54,31 @@
     "Application.ex4_lista3.executor": "Run",
     "Application.ex5.executor": "Run",
     "Application.ex5_lista2.executor": "Run",
+    "Application.ex5_lista3.executor": "Coverage",
     "Application.ex6.executor": "Run",
     "Application.ex6_lista2.executor": "Run",
     "Application.ex7.executor": "Run",
     "Application.ex7_lista2.executor": "Run",
     "Application.loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ct67ca/Desktop/Java",
-    "project.structure.last.edited": "Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex4_lista3">
+  <component name="RunManager" selected="Application.ex5_lista3">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="LIsta2" />
       <method v="2">
@@ -104,30 +113,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex7_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex7_lista2" />
-      <module name="LIsta2" />
+    <configuration name="ex5_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex5_lista3" />
+      <module name="Lista3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ex5_lista3" />
+      <item itemvalue="Application.ex1_lista3" />
       <item itemvalue="Application.ex2_lista3" />
       <item itemvalue="Application.ex3_lista3" />
       <item itemvalue="Application.ex4_lista3" />
-      <item itemvalue="Application.ex1_lista3" />
-      <item itemvalue="Application.ex7_lista2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex5_lista3" />
         <item itemvalue="Application.ex4_lista3" />
         <item itemvalue="Application.ex3_lista3" />
         <item itemvalue="Application.ex2_lista3" />
         <item itemvalue="Application.ex1_lista3" />
-        <item itemvalue="Application.ex7_lista2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -137,7 +153,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747399756636</updated>
+      <workItem from="1758818158454" duration="5621000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$ex5_lista3.ic" NAME="ex5_lista3 Coverage Results" MODIFIED="1758829651086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
