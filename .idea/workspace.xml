@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/src/ex2_lista3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/src/ex3_lista3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/src/ex4_lista3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +44,13 @@
     "Application.ex1_lista3.executor": "Run",
     "Application.ex2.executor": "Run",
     "Application.ex2_lista2.executor": "Run",
+    "Application.ex2_lista3.executor": "Run",
     "Application.ex3.executor": "Run",
     "Application.ex3_lista2.executor": "Run",
+    "Application.ex3_lista3.executor": "Run",
     "Application.ex4.executor": "Run",
     "Application.ex4_lista2.executor": "Run",
+    "Application.ex4_lista3.executor": "Run",
     "Application.ex5.executor": "Run",
     "Application.ex5_lista2.executor": "Run",
     "Application.ex6.executor": "Run",
@@ -58,13 +63,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/49074251803/Desktop/Java",
+    "last_opened_file_path": "C:/Users/ct67ca/Desktop/Java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex1_lista3">
+  <component name="RunManager" selected="Application.ex4_lista3">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="LIsta2" />
       <method v="2">
@@ -78,23 +83,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex4_lista2" />
-      <module name="LIsta2" />
+    <configuration name="ex2_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2_lista3" />
+      <module name="Lista3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex5_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5_lista2" />
-      <module name="LIsta2" />
+    <configuration name="ex3_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3_lista3" />
+      <module name="Lista3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex6_lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex6_lista2" />
-      <module name="LIsta2" />
+    <configuration name="ex4_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex4_lista3" />
+      <module name="Lista3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,19 +113,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ex2_lista3" />
+      <item itemvalue="Application.ex3_lista3" />
+      <item itemvalue="Application.ex4_lista3" />
       <item itemvalue="Application.ex1_lista3" />
       <item itemvalue="Application.ex7_lista2" />
-      <item itemvalue="Application.ex5_lista2" />
-      <item itemvalue="Application.ex6_lista2" />
-      <item itemvalue="Application.ex4_lista2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex4_lista3" />
+        <item itemvalue="Application.ex3_lista3" />
+        <item itemvalue="Application.ex2_lista3" />
         <item itemvalue="Application.ex1_lista3" />
         <item itemvalue="Application.ex7_lista2" />
-        <item itemvalue="Application.ex6_lista2" />
-        <item itemvalue="Application.ex5_lista2" />
-        <item itemvalue="Application.ex4_lista2" />
       </list>
     </recent_temporary>
   </component>
