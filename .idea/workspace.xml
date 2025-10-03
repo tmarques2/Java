@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista3/src/ex5_lista3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/src/ex6_lista3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lista3/ex3_lista3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lista3/ex3_lista3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lista3/ex5_lista3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lista3/ex5_lista3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +56,10 @@
     "Application.ex4_lista3.executor": "Run",
     "Application.ex5.executor": "Run",
     "Application.ex5_lista2.executor": "Run",
-    "Application.ex5_lista3.executor": "Coverage",
+    "Application.ex5_lista3.executor": "Run",
     "Application.ex6.executor": "Run",
     "Application.ex6_lista2.executor": "Run",
+    "Application.ex6_lista3.executor": "Run",
     "Application.ex7.executor": "Run",
     "Application.ex7_lista2.executor": "Run",
     "Application.loop.executor": "Run",
@@ -78,16 +81,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex5_lista3">
+  <component name="RunManager" selected="Application.ex6_lista3">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="LIsta2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex1_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex1_lista3" />
-      <module name="Lista3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,30 +116,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex6_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex6_lista3" />
+      <module name="Lista3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.ex5_lista3" />
-      <item itemvalue="Application.ex1_lista3" />
+      <item itemvalue="Application.ex6_lista3" />
       <item itemvalue="Application.ex2_lista3" />
       <item itemvalue="Application.ex3_lista3" />
       <item itemvalue="Application.ex4_lista3" />
+      <item itemvalue="Application.ex5_lista3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex6_lista3" />
         <item itemvalue="Application.ex5_lista3" />
         <item itemvalue="Application.ex4_lista3" />
         <item itemvalue="Application.ex3_lista3" />
         <item itemvalue="Application.ex2_lista3" />
-        <item itemvalue="Application.ex1_lista3" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
