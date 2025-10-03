@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista3/src/ex6_lista3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Colaborador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista3/ex3_lista3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lista3/ex3_lista3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lista3/ex5_lista3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lista3/ex5_lista3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,19 +79,20 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex6_lista3">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <module name="LIsta2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="POO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex2_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2_lista3" />
-      <module name="Lista3" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="LIsta2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,19 +127,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ex6_lista3" />
-      <item itemvalue="Application.ex2_lista3" />
       <item itemvalue="Application.ex3_lista3" />
       <item itemvalue="Application.ex4_lista3" />
       <item itemvalue="Application.ex5_lista3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ex6_lista3" />
         <item itemvalue="Application.ex5_lista3" />
         <item itemvalue="Application.ex4_lista3" />
         <item itemvalue="Application.ex3_lista3" />
-        <item itemvalue="Application.ex2_lista3" />
       </list>
     </recent_temporary>
   </component>
