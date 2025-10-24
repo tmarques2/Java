@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119373b3-6e96-4d2c-aec6-606881a635c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heranca/heranca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heranca/src/Colaborador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heranca/src/Horista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heranca/src/Mensalista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/LIsta2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/LIsta2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex1_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex1_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex2_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex2_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex3_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex3_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex4_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex4_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex5_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex5_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex6_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex6_lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIsta2/src/ex7_lista2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ex7_lista2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +86,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Trens">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="heranca" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="POO" />
@@ -111,13 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex4_lista3" />
-      <module name="Lista3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ex5_lista3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex5_lista3" />
       <module name="Lista3" />
@@ -134,19 +130,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Trens" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ex6_lista3" />
-      <item itemvalue="Application.ex4_lista3" />
       <item itemvalue="Application.ex5_lista3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Trens" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ex6_lista3" />
         <item itemvalue="Application.ex5_lista3" />
-        <item itemvalue="Application.ex4_lista3" />
       </list>
     </recent_temporary>
   </component>
