@@ -7,12 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/Lista1/Lista1.iml" filepath="$PROJECT_DIR$/Lista1/Lista1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista3/Lista3.iml" filepath="$PROJECT_DIR$/Lista3/Lista3.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-projeto/primeiro-projeto.iml" filepath="$PROJECT_DIR$/primeiro-projeto/primeiro-projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/quarto-projeto/quarto-projeto.iml" filepath="$PROJECT_DIR$/quarto-projeto/quarto-projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/segundo-projeto/segundo-projeto.iml" filepath="$PROJECT_DIR$/segundo-projeto/segundo-projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/terceiro-projeto/terceiro-projeto.iml" filepath="$PROJECT_DIR$/terceiro-projeto/terceiro-projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teste-java.iml" filepath="$PROJECT_DIR$/.idea/teste-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/variaveis/variaveis.iml" />
     </modules>
   </component>
 </project>
